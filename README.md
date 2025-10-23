@@ -96,8 +96,8 @@ Me impulsa la <b>curiosidad</b> constante por aprender, experimentar y crear.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvitt0&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvitt0&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pvitto&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvitto&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
