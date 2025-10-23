@@ -1,5 +1,5 @@
 <!-- 🌌 Perfil Principal -->
-<h1 align="center">👋 Hola, soy Paolo Mancini</h1>
+<h1 align="center">👋 Hola, soy Paolo Mancini (Apasionadamente curioso)</h1>
 <p align="center">
 <b>Ingeniero de Sistemas · Curiosity-Driven Developer · Colombia 🇨🇴</b>
 </p>
@@ -25,7 +25,7 @@ Me impulsa la <b>curiosidad</b> constante por aprender, experimentar y crear.
 |-------|------------|
 | 🧠 **Experto** | Python, JavaScript |
 | 💻 **Avanzado** | Java, SQL Server, HTML/CSS |
-| ⚙️ **Intermedio** | PHP, TypeScript, C#, Kotlin |
+| ⚙️ **Intermedio** | PHP, TypeScript, C#, Kotlin, **Ruby** |
 | 🌱 **Básico** | — |
 
 ---
@@ -98,6 +98,25 @@ Me impulsa la <b>curiosidad</b> constante por aprender, experimentar y crear.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pvitto&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvitto&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+### 💻 Lenguajes y Herramientas
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333?logo=typescript&logoColor=3178C6">
+  <img alt="Python" src="https://img.shields.io/badge/Python-333?logo=python&logoColor=3776AB">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-333?logo=php&logoColor=777BB4">
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-333?logo=ruby&logoColor=CC342D">
+  <img alt="1C:Enterprise" src="https://img.shields.io/badge/1C:Enterprise-333?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48Y2lyY2xlIGN4PTEyIGN5PTEyIHI9MTEgZmlsbD0nI2ZmMCcvPjx0ZXh0IHg9JzEyJyB5PScxNycgZm9udC1zaXplPScxMCcgZmlsbD0nI2QwMCcgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZSc+MUM8L3RleHQ+PC9zdmc+" />
+  <img alt="React" src="https://img.shields.io/badge/React-333?logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-333?logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333?logo=nodedotjs&logoColor=339933">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-333?logo=Prisma&logoColor=2D3748">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=4169E1">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=4479A1">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white">
 </p>
 
 ---
