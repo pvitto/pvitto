@@ -1,26 +1,25 @@
-<!-- Saludo principal -->
+<!-- 🌌 Perfil principal -->
 <h1 align="center">Hola 👋, soy Paolo Mancini</h1>
 <p align="center">
-Arquitecto & Full-Stack Developer · Operaciones y Sistemas · Colombia 🇨🇴
+Ingeniero de Sistemas · Curiosity-Driven Developer · Colombia 🇨🇴
 </p>
 
-<!-- Descripción corta -->
 <p align="center">
-Combino <b>arquitectura</b> y <b>tecnología</b> para crear soluciones que conectan el mundo físico con el digital.  
-Desde sistemas ERP y plataformas de logística hasta visualizaciones arquitectónicas de alto impacto.
+Exploro cómo el <b>código</b>, la <b>curiosidad</b> y la <b>creatividad</b> pueden mejorar la forma en que trabajamos, aprendemos y construimos tecnología.  
+Desarrollo soluciones que conectan procesos reales con sistemas digitales, combinando backend, automatización y diseño funcional.
 </p>
 
 ---
 
 ### 🚀 Actualmente
-- 🧭 Desarrollando **Eagle 3.0** → plataforma de operaciones (Next.js + Prisma + PostgreSQL) con alertas inteligentes.
-- 📦 Manteniendo módulos de **Agro-Costa** (PHP/CodeIgniter + MySQL + ExtJS) para tracking y bodegas.
-- 🧰 Implementando en **1C:Enterprise** el sistema *Mantenimiento de Vehículos* con registros, reportes y jobs automatizados.
-- 🧩 Diseñando **infraestructura visual y digital** para empresas y proyectos de formación.
+- 💻 Trabajando como **freelancer** en desarrollo e integración de sistemas web.
+- ⚙️ Creando plataformas personalizadas para operaciones, control y gestión de información.
+- 🧠 Aprendiendo y experimentando con nuevas tecnologías: **Next.js**, **1C:Enterprise**, **APIs REST**, **automatización y DevOps**.
+- 🔍 Apasionado por descubrir cómo pequeñas líneas de código pueden resolver grandes problemas.
 
 ---
 
-### 🛠️ Stack & herramientas
+### 🛠️ Lenguajes y herramientas
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=F7DF1E">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333?logo=typescript&logoColor=3178C6">
@@ -38,30 +37,23 @@ Desde sistemas ERP y plataformas de logística hasta visualizaciones arquitectó
 
 ---
 
-### 🧱 Arquitectura & Visualización
-- Renders hiperrealistas en **Lumion / SketchUp / Photoshop**.  
-- Experiencia en materiales: travertino turco, PVC texturizado, mármoles, acero y concreto.  
-- Entregables: moodboards, cortes, fichas técnicas, renders fotográficos y presentaciones arquitectónicas.
-
----
-
-### 📂 Proyectos destacados
-- **Eagle 3.0 – InfoAlert**: plataforma de operaciones y logística (Next.js + Prisma + PostgreSQL).  
-- **Agro-Costa**: módulos de inventario y despacho (PHP + MySQL + ExtJS).  
-- **1C:Enterprise – Mantenimiento de Vehículos**: automatización de registros, reportes y recordatorios.  
-- **Micrositios sociales**: landing pages y flujos WhatsApp Business para programas de formación.
+### 🧩 Proyectos recientes
+- **Eagle 3.0 – InfoAlert** → Plataforma de operaciones y logística (Next.js + Prisma + PostgreSQL).  
+- **Agro-Costa** → Módulos de inventario y despacho (PHP + MySQL + ExtJS).  
+- **1C:Enterprise – Mantenimiento de Vehículos** → Documentos, registros, reportes y job `RecordatoriosProximos`.  
+- **Micrositios y APIs** → Integraciones web, automatización de flujos y paneles informativos para empresas.
 
 ---
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mancinipaolo&show_icons=true&hide=prs&rank_icon=github&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mancinipaolo&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pvitt0&show_icons=true&hide=prs&rank_icon=github&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvitt0&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
 
-### 🤝 Conecta conmigo
+### 🌐 Conecta conmigo
 <a href="https://www.linkedin.com/in/paolo-mancini-224189238/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Paolo%20Mancini-0A66C2?logo=linkedin&logoColor=white">
 </a>
@@ -80,4 +72,4 @@ Desde sistemas ERP y plataformas de logística hasta visualizaciones arquitectó
 
 ---
 
-<sub>© Paolo Mancini — Arquitectura, software y operaciones. Creando espacios y sistemas con propósito.</sub>
+<sub>© Paolo Mancini — Ingeniero de Sistemas | Curiosity-Driven Developer | Construyendo tecnología con propósito.</sub>
