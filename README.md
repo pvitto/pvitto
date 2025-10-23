@@ -109,6 +109,11 @@ Me impulsa la <b>curiosidad</b> constante por aprender, experimentar y crear.
   <img alt="Python" src="https://img.shields.io/badge/Python-333?logo=python&logoColor=3776AB">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-333?logo=php&logoColor=777BB4">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-333?logo=ruby&logoColor=CC342D">
+  <img alt="Java" src="https://img.shields.io/badge/Java-333?logo=openjdk&logoColor=ED8B00">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-333?logo=csharp&logoColor=239120">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-333?logo=kotlin&logoColor=7F52FF">
+  <img alt="Go" src="https://img.shields.io/badge/Go-333?logo=go&logoColor=00ADD8">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-333?logo=rust&logoColor=DEA584">
   <img alt="1C:Enterprise" src="https://img.shields.io/badge/1C:Enterprise-333?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48Y2lyY2xlIGN4PTEyIGN5PTEyIHI9MTEgZmlsbD0nI2ZmMCcvPjx0ZXh0IHg9JzEyJyB5PScxNycgZm9udC1zaXplPScxMCcgZmlsbD0nI2QwMCcgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZSc+MUM8L3RleHQ+PC9zdmc+" />
   <img alt="React" src="https://img.shields.io/badge/React-333?logo=react&logoColor=61DAFB">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-333?logo=nextdotjs&logoColor=white">
