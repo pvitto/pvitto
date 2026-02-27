@@ -9,15 +9,17 @@ Turning complex operations into intelligent, automated systems — one idea at a
 ---
 
 ### 🌟 About Me
-- 📍 Based in **Barranquilla, Colombia** - 🧠 Passionate about **systems engineering**, **automation**, and **AI integration** - ⚙️ Building tools that connect **data, people, and technology** - ❤️ In love with creativity, architecture, and purposeful technology  
+- 📍 Based in **Barranquilla, Colombia**
+- 🧠 Passionate about **systems engineering**, **automation**, and **AI integration** - ⚙️ Building tools that connect **data, people, and technology** - ❤️ In love with creativity, architecture, and purposeful technology  
 - 💬 Always exploring how to make code **simpler, smarter, and more human** ---
 
 ### 🧩 Currently Working On
-- 🧱 Developing **Next.js + Prisma + PostgreSQL** platforms for operational intelligence  
-- 🧠 Creating **enterprise backends with .NET Core + C#** for process automation  
-- 🤖 Integrating **OpenAI API** and **n8n automations** for workflow optimization  
-- ☁️ Managing cloud deployments across **Azure**, **AWS**, and **GCP** - 📊 Experimenting with **Python Data Science** stacks: NumPy · Pandas · Power BI  
-- ⚙️ Bridging **1C:Enterprise** with modern RESTful and .NET microservices  
+- 🧱 Developing **Next.js + Prisma + PostgreSQL** platforms for operational intelligence
+- 🧠 Creating **enterprise backends with .NET Core + C#** for process automation
+- 🤖 Integrating **OpenAI API** and **n8n automations** for workflow optimization
+- ☁️ Managing cloud deployments across **Azure**, **AWS**, and **GCP**
+- 📊 Experimenting with **Python Data Science** stacks: NumPy · Pandas · Power BI
+- ⚙️ Bridging **1C:Enterprise** with modern RESTful and .NET microservices
 
 ---
 
@@ -30,7 +32,6 @@ Turning complex operations into intelligent, automated systems — one idea at a
   <img src="https://img.shields.io/badge/PHP-333?logo=php&logoColor=777BB4"/>
   <img src="https://img.shields.io/badge/C%23%20·%20.NET-333?logo=dotnet&logoColor=512BD4"/>
   <img src="https://img.shields.io/badge/SQL-333?logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/1C:Enterprise-333?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQnIGhlaWdodD0nMjQnIHZpZXdCb3g9JzAgMCAyNCAyNCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48Y2lyY2xlIGN4PTEyIGN5PTEyIHI9MTEgZmlsbD0nI2ZmMCcvPjx0ZXh0IHg9JzEyJyB5PScxNycgZm9udC1zaXplPScxMCcgZmlsbD0nI2QwMCcgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgdGV4dC1hbmNob3I9J21pZGRsZSc+MUM8L3RleHQ+PC9zdmc+"/>
 </p>
 
 ---
@@ -47,18 +48,21 @@ Turning complex operations into intelligent, automated systems — one idea at a
   <img src="https://img.shields.io/badge/AWS-333?logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-333?logo=githubactions&logoColor=2088FF"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-333?logo=powerautomate&logoColor=blue"/>
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- 🦅 **[EagleMaster](https://github.com/pvitto/eaglemaster)** — Real-time operational monitoring platform *(Next.js + Prisma + PostgreSQL)* - ⚙️ **[EAGLE](https://github.com/pvitto/EAGLE)** — Internal automation core *(Node.js + .NET Core + REST API)* - 💬 **[AgroChat](https://github.com/pvitto/agrochat)** — AI-powered chatbot for agricultural logistics *(Python + OpenAI API)* - 🌾 **[Agro](https://github.com/pvitto/agro)** — Logistics & warehouse control system *(PHP + MySQL + ExtJS)* ---
+- 🦅 **[EagleMaster](https://github.com/pvitto/eaglemaster)** — Real-time operational monitoring platform *(Next.js + Prisma + PostgreSQL)*
+- ⚙️ **[EAGLE](https://github.com/pvitto/EAGLE)** — Internal automation core *(Node.js + .NET Core + REST API)*
+- 💬 **[AgroChat](https://github.com/pvitto/agrochat)** — AI-powered chatbot for agricultural logistics *(Python + OpenAI API)*
+- 🌾 **[Agro](https://github.com/pvitto/agro)** — Logistics & warehouse control system *(PHP + MySQL + ExtJS)*
+
+---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvitto&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvitto&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pvitto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvitto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
