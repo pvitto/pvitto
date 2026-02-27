@@ -36,34 +36,15 @@ Turning complex operations into intelligent, automated systems — one idea at a
 
 ---
 
-### 🧠 Tools & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/.NET%20Core-333?logo=dotnet&logoColor=512BD4"/>
-  <img src="https://img.shields.io/badge/Next.js-333?logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-333?logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-333?logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Prisma-333?logo=Prisma&logoColor=2D3748"/>
-  <img src="https://img.shields.io/badge/Docker-333?logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Azure-333?logo=microsoftazure&logoColor=0089D6"/>
-  <img src="https://img.shields.io/badge/AWS-333?logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-333?logo=githubactions&logoColor=2088FF"/>
-</p>
-
----
-
 ### 📂 Featured Projects
-- 🦅 **[EagleMaster](https://github.com/pvitto/eaglemaster)** — Real-time operational monitoring platform *(Next.js + Prisma + PostgreSQL)*
-- ⚙️ **[EAGLE](https://github.com/pvitto/EAGLE)** — Internal automation core *(Node.js + .NET Core + REST API)*
-- 💬 **[AgroChat](https://github.com/pvitto/agrochat)** — AI-powered chatbot for agricultural logistics *(Python + OpenAI API)*
-- 🌾 **[Agro](https://github.com/pvitto/agro)** — Logistics & warehouse control system *(PHP + MySQL + ExtJS)*
+- 🦅 **[EagleMaster](https://github.com/pvitto/eaglemaster)** — Real-time operational monitoring platform
+- ⚙️ **[EAGLE](https://github.com/pvitto/EAGLE)** — Internal automation core
+- 💬 **[AgroChat](https://github.com/pvitto/agrochat)** — AI-powered chatbot for agricultural logistics
+- 🌾 **[Agro](https://github.com/pvitto/agro)** — Logistics & warehouse control system
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvitto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-</p>
+### 📈 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvitto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
