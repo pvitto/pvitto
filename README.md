@@ -1,4 +1,3 @@
-<!-- 🌌 Perfil Principal -->
 <h1 align="center">👋 Hi, I'm Paolo Mancini</h1>
 <h3 align="center">🚀 Curiosity-Driven Developer · Systems Engineer · Colombia 🇨🇴</h3>
 
@@ -10,20 +9,14 @@ Turning complex operations into intelligent, automated systems — one idea at a
 ---
 
 ### 🌟 About Me
-- 📍 Based in **Barranquilla, Colombia**  
-- 🧠 Passionate about **systems engineering**, **automation**, and **AI integration**  
-- ⚙️ Building tools that connect **data, people, and technology**  
-- ❤️ In love with creativity, architecture, and purposeful technology  
-- 💬 Always exploring how to make code **simpler, smarter, and more human**  
-
----
+- 📍 Based in **Barranquilla, Colombia** - 🧠 Passionate about **systems engineering**, **automation**, and **AI integration** - ⚙️ Building tools that connect **data, people, and technology** - ❤️ In love with creativity, architecture, and purposeful technology  
+- 💬 Always exploring how to make code **simpler, smarter, and more human** ---
 
 ### 🧩 Currently Working On
 - 🧱 Developing **Next.js + Prisma + PostgreSQL** platforms for operational intelligence  
 - 🧠 Creating **enterprise backends with .NET Core + C#** for process automation  
 - 🤖 Integrating **OpenAI API** and **n8n automations** for workflow optimization  
-- ☁️ Managing cloud deployments across **Azure**, **AWS**, and **GCP**  
-- 📊 Experimenting with **Python Data Science** stacks: NumPy · Pandas · Power BI  
+- ☁️ Managing cloud deployments across **Azure**, **AWS**, and **GCP** - 📊 Experimenting with **Python Data Science** stacks: NumPy · Pandas · Power BI  
 - ⚙️ Bridging **1C:Enterprise** with modern RESTful and .NET microservices  
 
 ---
@@ -60,17 +53,15 @@ Turning complex operations into intelligent, automated systems — one idea at a
 ---
 
 ### 📂 Featured Projects
-- 🦅 **[EagleMaster](https://github.com/pvitto/eaglemaster)** — Real-time operational monitoring platform *(Next.js + Prisma + PostgreSQL)*  
-- ⚙️ **[EAGLE](https://github.com/pvitto/EAGLE)** — Internal automation core *(Node.js + .NET Core + REST API)*  
-- 💬 **[AgroChat](https://github.com/pvitto/agrochat)** — AI-powered chatbot for agricultural logistics *(Python + OpenAI API)*  
-- 🌾 **[Agro](https://github.com/pvitto/agro)** — Logistics & warehouse control system *(PHP + MySQL + ExtJS)*  
-
----
+- 🦅 **[EagleMaster](https://github.com/pvitto/eaglemaster)** — Real-time operational monitoring platform *(Next.js + Prisma + PostgreSQL)* - ⚙️ **[EAGLE](https://github.com/pvitto/EAGLE)** — Internal automation core *(Node.js + .NET Core + REST API)* - 💬 **[AgroChat](https://github.com/pvitto/agrochat)** — AI-powered chatbot for agricultural logistics *(Python + OpenAI API)* - 🌾 **[Agro](https://github.com/pvitto/agro)** — Logistics & warehouse control system *(PHP + MySQL + ExtJS)* ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvitto&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvitto&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pvitto&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvitto&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvitto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,4 +79,4 @@ Turning complex operations into intelligent, automated systems — one idea at a
 
 ---
 
-<sub>© 2025 Paolo Mancini — Systems Engineer | Curiosity-Driven Developer | Building with purpose & love for Jenifer 💙</sub>
+<sub>© 2026 Paolo Mancini — IT Leader | Full Stack Developer | Building with purpose & love for Jenifer 💙</sub>
